@@ -1,0 +1,8 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\bin\Debug\DataAccessTest.exe.config
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\bin\Debug\DataAccessTest.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\bin\Debug\DataAccessTest.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\bin\Debug\DataAcess.dll
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\bin\Debug\DataAcess.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\obj\Debug\DataAccessTest.csprojResolveAssemblyReference.cache
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\obj\Debug\DataAccessTest.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAccessTestSolution\DataAccessTest\obj\Debug\DataAccessTest.pdb

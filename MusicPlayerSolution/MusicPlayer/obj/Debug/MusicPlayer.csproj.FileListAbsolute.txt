@@ -1,0 +1,6 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MusicPlayerSolution\MusicPlayer\obj\Debug\MusicPlayer.pdb

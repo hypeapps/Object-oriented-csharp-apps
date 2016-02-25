@@ -1,0 +1,6 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Wallet\Wallet\bin\Debug\Wallet.exe.config
+C:\Users\PrzemekEnterprise\Documents\Visual Studio 2013\Projects\Wallet\Wallet\bin\Debug\Wallet.exe
+C:\Users\PrzemekEnterprise\Documents\Visual Studio 2013\Projects\Wallet\Wallet\bin\Debug\Wallet.pdb
+C:\Users\PrzemekEnterprise\Documents\Visual Studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.csprojResolveAssemblyReference.cache
+C:\Users\PrzemekEnterprise\Documents\Visual Studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.exe
+C:\Users\PrzemekEnterprise\Documents\Visual Studio 2013\Projects\Wallet\Wallet\obj\Debug\Wallet.pdb

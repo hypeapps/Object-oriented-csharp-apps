@@ -1,0 +1,10 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\bin\Debug\MailSender.exe.config
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\bin\Debug\MailSender.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\bin\Debug\MailSender.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.Properties.Resources.resources
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.csproj.GenerateResource.Cache
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.MailCreator.resources
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.csprojResolveAssemblyReference.cache
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\MailSenderSolution\MailSender\obj\Debug\MailSender.Login1.resources

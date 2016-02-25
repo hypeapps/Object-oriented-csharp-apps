@@ -1,0 +1,6 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\bin\Debug\Ksiazka.exe.config
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\bin\Debug\Ksiazka.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\bin\Debug\Ksiazka.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\obj\Debug\Ksiazka.csprojResolveAssemblyReference.cache
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\obj\Debug\Ksiazka.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\Ksiazka\Ksiazka\obj\Debug\Ksiazka.pdb

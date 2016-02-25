@@ -1,0 +1,6 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\bin\Debug\HanoiGame.exe.config
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\bin\Debug\HanoiGame.exe
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\bin\Debug\HanoiGame.pdb
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\obj\Debug\HanoiGame.exe
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\obj\Debug\HanoiGame.pdb
+C:\Users\PrzemekEnterprise\documents\visual studio 2013\Projects\HanoiGameSolution\HanoiGame\obj\Debug\HanoiGame.csprojResolveAssemblyReference.cache

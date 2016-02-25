@@ -1,0 +1,6 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\bin\Debug\SymulatorJazdy.exe.config
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\bin\Debug\SymulatorJazdy.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\bin\Debug\SymulatorJazdy.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\obj\Debug\SymulatorJazdy.csprojResolveAssemblyReference.cache
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\obj\Debug\SymulatorJazdy.exe
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\SymulatorJazdy\SymulatorJazdy\obj\Debug\SymulatorJazdy.pdb

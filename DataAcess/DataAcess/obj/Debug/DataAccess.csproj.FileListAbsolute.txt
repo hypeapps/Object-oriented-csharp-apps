@@ -1,0 +1,8 @@
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAcess\DataAcess\bin\Debug\DataAcess.dll
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAcess\DataAcess\bin\Debug\DataAcess.pdb
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAcess\DataAcess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAcess\DataAcess\obj\Debug\DataAcess.dll
+c:\users\przemekenterprise\documents\visual studio 2013\Projects\DataAcess\DataAcess\obj\Debug\DataAcess.pdb
+F:\DataAcess\DataAcess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\DataAcess\DataAcess\obj\Debug\DataAcess.dll
+F:\DataAcess\DataAcess\obj\Debug\DataAcess.pdb
